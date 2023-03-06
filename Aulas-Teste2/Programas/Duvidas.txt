@@ -1,0 +1,19 @@
+Programa das pag. 36 a 39 do pdf notas ( programa para determinar se é golo) --> saber como mundar o angulo conforme varia a rotaçao segundo x y ou z
+metodo de euler euler-cromen    (perguntar Stor)
+Pratica 9 exercicio 13 ---> Programa 5 como modificar para adicionar a inclinaçao -->  ver Nico
+Pratica 10 ---> output dos programas que valores sao?    alterar velocidade como? e saber o que é o det
+
+
+
+falta programa: 
+--> Euler 2D Rar Fmag  
+--> Energia Mecanica sem Rar (Pratica 8 5.3 a) )
+
+
+
+Por fazer:
+Prova Recurso Computacional
+
+Alterar: 
+Programa 2 Nico, alterar euler 3d fmag Rar  Tomas(golo)
+

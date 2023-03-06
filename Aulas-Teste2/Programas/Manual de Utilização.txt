@@ -1,0 +1,5 @@
+Programa 1 ---> Considere a Rar ( alterar D par 0 se Rar nao existir e comentar a vT), D = g/vt**2, vT = 100km/h, obter grafico da altura em funçao da distancia percorrida(alcance e altura).
+
+Programa 2 ---> Considere a Rar, FMagnus, Angulo de Rotação
+
+Programa 2 [Nico] ---> igual a programa 2 mas com menor precisao ??
